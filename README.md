@@ -1,4 +1,4 @@
-# Turbine Blade Aerothermodynamics Simulation Framework
+# Turbine Blade Aerothermodynamics Simulation
 
 A complete computational framework for turbine blade design, meshing, CFD simulation, and post-processing. Designed to run in Google Colab or local Python/C++ environment.
 
